@@ -7,5 +7,5 @@ Utilising OOP, local storage and geolocation API calls.
 
 static web app - open 'index.html' in browser.
 functionality requires permission to access users browser location.
-select 'y' when prompted.
-.
+select 'allow' when prompted.
+
